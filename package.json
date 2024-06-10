@@ -1,0 +1,19 @@
+{
+  "name": "http-client-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit13022/http-client-library.git"
+  },
+  "author": "Ankit",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ankit13022/http-client-library/issues"
+  },
+  "homepage": "https://github.com/ankit13022/http-client-library#readme"
+}
